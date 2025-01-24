@@ -25,4 +25,15 @@ Defects are undesirable qualities that can occur in coffee beans during processi
 
 Category One defects are primary defects that can be perceived through visual inspection of the coffee beans. These defects include Black beans, sour beans, insect-damaged beans, fungus-damaged beans, etc.
 
-Category Two defects are secondary defects that are more subtle and can only be detected through tasting. These defects include Over-fermentation, staleness, rancidness, chemical taste, etc.
+Category Two defects are secondary defects that are more subtle and can only be detected through tasting. These defects include Over-fermentation, staleness, rancidness, chemical taste, etc. 
+
+Analysis Performed On The Dataset 
+
+1.Data Importing 
+
+2.Data Transformation 
+
+3.Visualizations
+
+
+
