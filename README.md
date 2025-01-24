@@ -1,8 +1,10 @@
 # Analyzing-Coffee-Quality-Data-with-Power-BI
 Objective Of The Project
+
 The primary goal of this project is to leverage the rich dataset provided by CQI to understand the factors that contribute to coffee quality.
 
 Overview Of The Dataset 
+
 The data includes a range of information on coffee production, processing, and sensory evaluation. It also contains data on coffee genetics, soil types, and other factors that can affect coffee quality.
 
 Sensory evaluations (coffee quality scores)
