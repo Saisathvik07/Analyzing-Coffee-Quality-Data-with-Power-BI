@@ -1,9 +1,9 @@
 # Analyzing-Coffee-Quality-Data-with-Power-BI
-Objective Of The Project
+# Objective Of The Project
 
 The primary goal of this project is to leverage the rich dataset provided by CQI to understand the factors that contribute to coffee quality.
 
-Overview Of The Dataset 
+# Overview Of The Dataset 
 
 The data includes a range of information on coffee production, processing, and sensory evaluation. It also contains data on coffee genetics, soil types, and other factors that can affect coffee quality.
 
@@ -27,7 +27,7 @@ Category One defects are primary defects that can be perceived through visual in
 
 Category Two defects are secondary defects that are more subtle and can only be detected through tasting. These defects include Over-fermentation, staleness, rancidness, chemical taste, etc. 
 
-Analysis Performed On The Dataset 
+# Analysis Performed On The Dataset 
 
 1.Data Importing 
 
